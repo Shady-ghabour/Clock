@@ -23,3 +23,4 @@ This project is a responsive clock that displays both an analog and a digital cl
 - Js: Real time display.
 
 Click The Link To See The Clock:
+https://shady-ghabour.github.io/Clock/ 
