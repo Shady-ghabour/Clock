@@ -21,3 +21,5 @@ This project is a responsive clock that displays both an analog and a digital cl
 - Html: The structure of the clock.
 - Css: The design.
 - Js: Real time display.
+
+Click The Link To See The Clock:
