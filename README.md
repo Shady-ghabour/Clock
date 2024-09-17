@@ -5,7 +5,7 @@ I made this responsive clock using html, css and javascript.
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Used Languages](#Used Languages)
+- [Used Languages](#Used_Languages)
 
 ## Introduction
 
